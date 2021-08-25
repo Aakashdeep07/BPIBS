@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852895448570",
+    "project_id": "bpibs-d6fc4",
+    "storage_bucket": "bpibs-d6fc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852895448570:android:99eee36ca5934e5d3a7843",
+        "android_client_info": {
+          "package_name": "com.aakash.bpibs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852895448570-232a00ubtrukd9h7i348lspq6d7a658g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCud2EonLvjSYwHhtRBX9v36FwoOCq1e5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852895448570-232a00ubtrukd9h7i348lspq6d7a658g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
